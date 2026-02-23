@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ewd7qlbUcRSCev4vScu8j71Plq6t4_4j
 """
 
-!pip install streamlit sentence-transformers scikit-learn
 
 import streamlit as st
 from sentence_transformers import SentenceTransformer
