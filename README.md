@@ -1,1 +1,5 @@
-# mindenious-internship-capstone-projects
+streamlit
+sentence-transformers
+scikit-learn
+pandas
+numpy
